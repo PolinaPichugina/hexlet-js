@@ -1,3 +1,4 @@
-console.log("Hello, Hexlet!");
+
 import _ from "lodash";
-console.log(_.last(["one", "two"]));
+import strangeMission from "./src/index.js"
+console.log(strangeMission);
