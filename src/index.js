@@ -1,3 +1,3 @@
 export default (strangeMission) => {
-return "Hello, Hexlet!";
+console.log("Hello, Hexlet!");
 }
